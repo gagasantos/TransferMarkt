@@ -1,0 +1,4 @@
+git add file
+git commit -m "adding code"
+git push
+
